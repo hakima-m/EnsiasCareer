@@ -28,7 +28,7 @@ Admin User
 5. Entreprise Home Page
 ![recprofile](https://user-images.githubusercontent.com/75782444/139753010-6ac5d1a8-3247-4fa1-9e04-b80ef4384307.png)
 
-6. Entreprise Search for Ensiaste profiles Page
+6. Entreprise Search results for Ensiaste profiles Page
  ![profiles](https://user-images.githubusercontent.com/75782444/139753162-3021f46c-37da-4a75-adb5-29ac731d7ed5.png)
 
 7. Entreprise Edit profile Page
@@ -42,4 +42,36 @@ Admin User
 
 10. Edit offer Page
 ![editOffre](https://user-images.githubusercontent.com/75782444/139753531-d9e96642-9cf5-4c57-8152-63fae781870f.png)
+
+11. Ensiaste Home Page
+![homees](https://user-images.githubusercontent.com/75782444/139755500-01449a7c-df30-45ef-bb3c-b9e7080c1d5c.png)
+
+12. Ensiaste Search results for offers Page
+![offers](https://user-images.githubusercontent.com/75782444/139755611-0b3f17a5-5b89-4bf2-a332-8cc0391fae6c.png)
+
+13. Offer details Page
+An Ensiaste can give his feedback
+![ajoutCom](https://user-images.githubusercontent.com/75782444/139755710-25c05c36-0568-4ab7-8e08-03484921940f.png)
+
+14. Edit comment Page
+![gestionCom](https://user-images.githubusercontent.com/75782444/139756452-89191c4e-c014-4643-a6fc-6c78b2f6a689.png)
+
+15. Saved offers Page
+ ![saved](https://user-images.githubusercontent.com/75782444/139756526-1ad79c72-16cb-43d7-9942-9f4d6ece5510.png)
+
+16. Edit Ensiaste profile Page
+![editensiaste](https://user-images.githubusercontent.com/75782444/139756583-468a4778-d487-44c4-825e-06e763b0f6ab.png)
+
+17. Admin Home Page
+![espaceadmin](https://user-images.githubusercontent.com/75782444/139756650-fea15f5f-cfba-4402-a6fd-c00376f51d7d.png)
+
+18. Manage Ensiaste accounts Page
+![gestionensiaste](https://user-images.githubusercontent.com/75782444/139756732-2297595e-a001-4f58-bc26-ee5d9feb485f.png)
+
+19. Manage Entreprise accounts Page
+![gestionentreprise](https://user-images.githubusercontent.com/75782444/139756769-d8dc2002-08bc-4167-ae08-cbe470821b1d.png)
+
+20. Manage Offers Page
+![gestioncontenu](https://user-images.githubusercontent.com/75782444/139756830-4123e28d-3099-486d-8654-6534a85d4e18.png)
+
 
